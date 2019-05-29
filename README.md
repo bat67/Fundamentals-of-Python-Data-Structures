@@ -1,7 +1,9 @@
-# Fundamentals of Python Data Structures 数据结构：Python语言描述
+# Fundamentals of Python Data Structures | 数据结构：Python语言描述
 
 >"Fundamentals of Python Data Structures" Books and Code
 >《数据结构：Python语言描述》书籍和配套代码
+
+电子书见Repo中的pdf文件
 
 ## Table of Contents
 * CHAPTER 1 Basic Python Programming 
